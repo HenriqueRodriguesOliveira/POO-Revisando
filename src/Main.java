@@ -8,6 +8,5 @@ public class Main {
         System.out.println("Idade: " + idade);
         System.out.println("Salário: " + salarioMensal);
         System.out.println("Gênero: " + genero);
-        System.out.println("Empregado: " + empregadoJava);
-    }
+        System.out.println("Empregado: " + empregadoJava);    }
 }
