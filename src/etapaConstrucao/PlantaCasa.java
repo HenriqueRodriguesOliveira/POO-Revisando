@@ -67,6 +67,9 @@ public class PlantaCasa {
         casaVizinho.numeroBanheiros = 1;
         casaVizinho.numeroQuartos = 1;
         casaVizinho.cor = "Amarela";
+
+        casaVizinho.contruir();
+        casaVizinho.pintar();;
     }
 
 }
